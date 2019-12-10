@@ -1,0 +1,23 @@
+Training with Entropy as impurity measure...
+Training Finished!
+Predicting Labels...
+Accuracy is : 96.9306049822064
+Recall is : 0.9365671641791045
+precision is : 0.9348230912476723
+f1score is : 0.9356943150046599
+
+Training with GiniIndex as impurity measure...
+Training Finished!
+Predicting Labels...
+Accuracy is : 96.97508896797153
+Recall is : 0.9365671641791045
+precision is : 0.9365671641791045
+f1score is : 0.9365671641791046
+
+Training with Misclassification as impurity measure...
+Training Finished!
+Predicting Labels...
+Accuracy is : 97.10854092526691
+Recall is : 0.9347014925373134
+precision is : 0.943502824858757
+f1score is : 0.9390815370196813
